@@ -1,4 +1,4 @@
-# turkce-kaynaklar
+# Yazılım Türkçe Kaynaklar
 Bu sayfada yazılım geliştirme yolunda; seçmiş olduğunuz alan için öğrenilmesi gereken programlama dilleri için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. Programlama dilleri hakkında aklınıza takılan sorular varsa [Game Mega](https://www.instagram.com/gamemega4/) İnstagram Sayfası veya [Game Mega Discord Sunucusu](https://discord.gg/cNvTzrNGrw)'a katılıp sorabilirsiniz. 
 
 > Bilgi paylaştıkça çoğalır
