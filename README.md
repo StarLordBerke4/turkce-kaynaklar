@@ -87,7 +87,7 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
   - [YouTube Kanalları](#youtube-kanalları)
   - [Twitch Kanalları](#twitch-kanalları)
   - [Slack Grupları](#slack-grupları)
-- [Ek İçerikle] (#ek-içerikler)
+- [Ek İçerikle](#ek-içerikler)
 
 -----
 
