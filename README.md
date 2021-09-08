@@ -1145,3 +1145,5 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 * [Python Öğren 4 Saatte Python'a Başlangıç](https://github.com/peptr/python-ogren-4-saatte-python-baslangic) (Güray Yıldırım, Aylin Gümüş, Muhammed Taha Ayan)
 * [Python yield deyimi nedir? Ne işe yarar?](https://ysar.net/python/yield.html) (Yaşar Arabacı)
 * [PyInstaller ile .py Dosyalarını .exe'ye Çevirmek](https://makdos.blog/python/545/pyinstaller-ile-py-dosyalarini-exe-ye-cevirmek/) (Makdos Blog)
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
