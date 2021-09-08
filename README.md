@@ -3,6 +3,10 @@ Bu sayfada yazılım geliştirme yolunda; seçmiş olduğunuz alan için öğren
 
 > Bilgi paylaştıkça çoğalır
 
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+
 ## Türkçe Kaynaklar Listesi [![Build Status](https://img.shields.io/travis/fatihacet/turkcekaynaklar-com.svg?style=flat-square)](https://travis-ci.org/fatihacet/turkcekaynaklar-com)
 
 Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
