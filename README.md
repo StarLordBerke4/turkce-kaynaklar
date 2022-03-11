@@ -1144,4 +1144,4 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 * [Python yield deyimi nedir? Ne işe yarar?](https://ysar.net/python/yield.html) (Yaşar Arabacı)
 * [PyInstaller ile .py Dosyalarını .exe'ye Çevirmek](https://makdos.blog/python/545/pyinstaller-ile-py-dosyalarini-exe-ye-cevirmek/) (Makdos Blog)
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+<img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" />
