@@ -9,7 +9,7 @@ Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğre
 
 Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
-### [https://sibermega4.blogspot.com/](https://sibermega4.blogspot.com/)
+### [https://sibermega4.blogspot.com/]()
 ### [http://www.electronicspider.com/](http://www.electronicspider.com/)
 ### [https://teknomega4.blogspot.com/](https://teknomega4.blogspot.com/)
 ---
