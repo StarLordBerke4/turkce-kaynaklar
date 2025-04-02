@@ -5,7 +5,7 @@ Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğre
 
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
-## Türkçe Kaynaklar Listesi [![Build Status](https://img.shields.io/travis/fatihacet/turkcekaynaklar-com.svg?style=flat-square)](https://travis-ci.org/fatihacet/turkcekaynaklar-com)
+## Türkçe Kaynaklar Listesi:
 
 Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
