@@ -1,5 +1,5 @@
 # Türkçe Yazılım Kaynakları
-Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğrenmeniz gereken programlama dillerini derlemiş olduğum; Türkçe olarak hazırlanmış kaynakları kullanarak (çeviri, blog yazısı, video eğitim vb.) hızlıca erişebilirsiniz... Programlama dilleri hakkında aklınıza takılan sorular varsa [Game Mega](https://www.instagram.com/gamemega4/) İnstagram Sayfası veya [Game Mega Discord Sunucusu](https://discord.gg/cNvTzrNGrw)'a katılıp sorabilirsiniz. 
+Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğrenmeniz gereken programlama dillerini derlemiş olduğum; Türkçe olarak hazırlanmış kaynakları kullanarak (çeviri, blog yazısı, video eğitim vb.) hızlıca erişebilirsiniz... Programlama dilleri hakkında aklınıza takılan sorular varsa [Siber Mega](https://www.instagram.com/sibermega4/) İnstagram Sayfası veya [Siber Mega Discord Sunucusu](https://discord.gg/ZgQCPu86BK)'a katılıp sorabilirsiniz. 
 
 > Bilgi paylaştıkça çoğalır
 
@@ -9,9 +9,9 @@ Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğre
 
 Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
-### [](https://sibermega4.blogspot.com/)
+### [https://www.sibermega.com.tr/](https://www.sibermega.com.tr/)
+### [https://sibermega4.blogspot.com/](https://sibermega4.blogspot.com/)
 ### [http://www.electronicspider.com/](http://www.electronicspider.com/)
-### [https://teknomega4.blogspot.com/](https://teknomega4.blogspot.com/)
 ---
 
 
