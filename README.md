@@ -10,8 +10,9 @@ Bu rehberde yazılım geliştirme yolunda, seçmiş olduğunuz alan için öğre
 Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
 -  <b>Web Sitem:</b> [https://www.sibermega.com.tr/](https://www.sibermega.com.tr/)
--  Bloğum: [https://sibermega4.blogspot.com/](https://sibermega4.blogspot.com/)
--  Ortak Kuruluş Web Sitesi: [http://www.electronicspider.com/](http://www.electronicspider.com/)
+-  <b>Medium:</b> [https://starlordberke.medium.com/](https://starlordberke.medium.com/)
+-  <b>Bloğum:</b> [https://sibermega4.blogspot.com/](https://sibermega4.blogspot.com/)
+-  <b>Ortak Kuruluş Web Sitesi:</b> [http://www.electronicspider.com/](http://www.electronicspider.com/)
 ---
 
 
@@ -810,8 +811,8 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
 
 ### YouTube Kanalları
-- [Game Mega](https://www.youtube.com/@sibermega) 
-- [Elektronik Örümcek] (https://www.youtube.com/@elektronikorumcek3484)
+- [Siber Mega](https://www.youtube.com/@sibermega) 
+- [Elektronik Örümcek](https://www.youtube.com/@elektronikorumcek3484)
 - [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA/videos)
 - [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ/videos)
 - [Adem İlter](https://www.youtube.com/user/ademilter/videos)
