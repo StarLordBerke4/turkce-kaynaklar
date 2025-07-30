@@ -11,6 +11,8 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
 -  <b>Web Sitem:</b> [https://www.sibermega.com.tr/](https://www.sibermega.com.tr/)
 -  <b>Medium:</b> [https://starlordberke.medium.com/](https://starlordberke.medium.com/)
+-  <b>Youtube:</b> [https://www.youtube.com/@sibermega](https://www.youtube.com/@sibermega)
+-  <b>İnstagram:</b> [https://www.instagram.com/sibermega4](https://www.instagram.com/sibermega4)
 -  <b>Bloğum:</b> [https://sibermega4.blogspot.com/](https://sibermega4.blogspot.com/)
 -  <b>Ortak Kuruluş Web Sitesi:</b> [http://www.electronicspider.com/](http://www.electronicspider.com/)
 ---
