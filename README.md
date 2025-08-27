@@ -556,8 +556,8 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
 
 ### Python
-- [Python Dersleri - İstihza, Yazbel](https://python-istihza.yazbel.com/)
-- [Python Dersleri Github - İstihza, Yazbel](https://github.com/yazbel/python-istihza)
+- [Python Dersleri - Yazbel](https://python.yazbel.com/)
+- [Python Dersleri Github - Yazbel](https://github.com/yazbel/python)
 - :movie_camera: [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) - [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun)
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
@@ -926,7 +926,7 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 - - -
 
 ## Eğitim Seti (Yazılı)
-* :star: [İstihza Python 3 için Türkçe Kaynak](https://python-istihza.yazbel.com/) (Fırat özgül)
+* :star: [Python 3 için Türkçe Kaynak, YazBel](https://python.yazbel.com/) (Fırat özgül)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf) (Jeffrey Elkner, Allen B. Downey ve Chris Meyers)
 * [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html) (Prof. Dr. Bedri Doğan Emir)
 * [Python Programlamaya Giriş](http://www.veridefteri.com/category/python-giris/) (Kaan Öztürk)
@@ -1062,7 +1062,7 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 * [jn7.net - OpenCV Uygulama Örnekleri](https://jn7.net/category/programlama/opencv/) (Halil İbrahim K.)
 
 ### Os
-* [Os Modülü İstihza](https://belgeler.yazbel.com/python-istihza/standart_moduller/os.html) (Fırat Özgül)
+* [Os Modülü YazBel](https://python.yazbel.com/standart_moduller/os.html) (Fırat Özgül)
 * [Python Os Modülü](https://www.python.tc/python-os-modulu/) (Ali Yaman)
 * [Python Os Modülü](https://www.sinanerdinc.com/python-os-modulu) (Sinan Erdinç)
 
@@ -1102,9 +1102,11 @@ Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
 
 ### Random
 * [Random Modülü Kullanımı](https://www.sinanerdinc.com/python-random-modulu) (Sinan Erdinç)
+* [random modülü, YazBel](https://python.yazbel.com/standart_moduller/random.html)
 
 ### Re
 * [Re Modülü Kullanımı](https://www.sinanerdinc.com/python-re-modulu) (Sinan Erdinç)
+* [re modülü (Düzenli ifadeler), YazBel](https://python.yazbel.com/standart_moduller/regex.html)
 
 ### Requests
 * [Requests Modülü Kullanımı](https://www.sinanerdinc.com/python-requests-modulu) (Sinan Erdinç)
